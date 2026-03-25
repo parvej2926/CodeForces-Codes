@@ -1,7 +1,7 @@
 # 🚀 Codeforces Practice Repository
 
 This repository contains my solutions to various **Codeforces problems**, organized by topic and difficulty.  
-The goal is to strengthen problem-solving skills for **ICPC, competitive programming, and algorithmic thinking**.
+The goal is to strengthen problem-solving skills for ** ICPC, competitive programming, and algorithmic thinking**.
 
 ---
 
